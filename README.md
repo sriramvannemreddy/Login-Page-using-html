@@ -42,6 +42,6 @@ This is a basic **HTML Login Page** designed for demonstration or beginner-level
 
 ## 📁 File Structure
 project-folder/
-├── index.html
+├── Login_page.html
 └── README.md
 
