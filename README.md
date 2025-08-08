@@ -34,10 +34,13 @@ This is a basic **HTML Login Page** designed for demonstration or beginner-level
 ## 🚀 Getting Started
 
 1. Clone or download the repository
-2. Open the `index.html` file in any web browser
+2. Open the `Login_page.html` file in any web browser
 3. Interact with the login form
 
 ---
 
 ## 📁 File Structure
+project-folder/
+├── index.html
+└── README.md
 
