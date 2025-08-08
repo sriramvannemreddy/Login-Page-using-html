@@ -27,7 +27,8 @@ This is a basic **HTML Login Page** designed for demonstration or beginner-level
 
 ## 📸 Screenshot
 
-*(Optional: Add a screenshot of your login page here)*
+<img width="410" height="491" alt="Screenshot 2025-08-08 223822" src="https://github.com/user-attachments/assets/3ffba130-8442-4e3f-81bd-411f67b66d0c" />
+
 
 ---
 
